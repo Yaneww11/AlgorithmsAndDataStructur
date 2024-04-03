@@ -12,20 +12,8 @@ Given n non-negative integers representing an elevation map where the width of e
   - The second line contains N integers, each representing the height of a building.
 
 ## Example
+![Screenshot (8)](https://github.com/Yaneww11/AlgorithmsAndDataStructur/assets/93374652/84acfaba-81ca-4921-b333-17ef42183657)
 
-Input:
-3
-6
-0 1 0 2 1 0
-4
-3 0 0 2
-5
-0 3 0 2 0
-
-Output:
-1
-4
-2
 
 ## Output
 
