@@ -15,25 +15,7 @@ Cameron and Jamie have a list of N activities to take care of during the day. Ea
 - Then, N lines follow. Line i of these lines (counting from 1) contains two integers Si and Ei. Activity i starts exactly Si minutes after midnight and ends exactly Ei minutes before midnight.
 
 ## Example
-
-4
-3
-360 480
-420 540
-600 660
-3
-0 1440
-1 3
-2 4
-5
-99 150
-1 100
-100 301
-2 5
-150 250
-2
-0 720
-720 1440
+![Screenshot (12)](https://github.com/Yaneww11/AlgorithmsAndDataStructur/assets/93374652/49c9d347-9658-4a02-8643-789286727c3c)
 
 ## Output
 
